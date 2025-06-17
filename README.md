@@ -1,4 +1,5 @@
 # demo-repo
 This is my first github repository
-author - Sayyed Rassheed
+<br>
+Author - Sayyed Rassheed
 
